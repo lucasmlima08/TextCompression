@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="TextCompression_LZW/CompressionLZW.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextCompression_LZW/Compression.cs">
+    <Files>
+      <File FileName="TextCompression_LZW/Compression.cs" Line="17" Column="41" />
+      <File FileName="TextCompression_LZW/Decompression.cs" Line="1" Column="1" />
+      <File FileName="TextCompression_LZW/MainProject.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

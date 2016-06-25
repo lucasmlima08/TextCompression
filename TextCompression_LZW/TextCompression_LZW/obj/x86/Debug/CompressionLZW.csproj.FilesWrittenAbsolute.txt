@@ -1,0 +1,3 @@
+/home/lucasmlima/workspace/CSharp/TextCompression_LZW/TextCompression_LZW/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/lucasmlima/workspace/CSharp/TextCompression_LZW/TextCompression_LZW/obj/x86/Debug/TextCompression_LZW.exe
+/home/lucasmlima/workspace/CSharp/TextCompression_LZW/TextCompression_LZW/obj/x86/Debug/TextCompression_LZW.exe.mdb
